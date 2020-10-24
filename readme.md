@@ -7,8 +7,8 @@ correct card lists shown.  Eventually this will grow to be a component of a
 digital version of TSQ
 
 __author__ = "David Marienburg"  
-__version__ = "0.01b"  
-__last_updated__ = "2020/10/12"
+__version__ = "0.02b"  
+__last_updated__ = "2020/10/24"
 
 ***
 
@@ -21,3 +21,5 @@ __last_updated__ = "2020/10/12"
 ## Updates
 
 ***
+
+* Added names and counts for cards up through quest 8

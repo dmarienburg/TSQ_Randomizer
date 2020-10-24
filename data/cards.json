@@ -2925,7 +2925,415 @@
             },
             "Wounds": {}
         },
-        "Vengeful Sands": {},
+        "Vengeful Sands": {
+            "Heros": {
+                "Cirrok": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Duriggim SOulbrand": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Hemna Granitesunder": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Rien Mandroux": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Shakir the Sailor": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Shawna Hopesinger": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                }
+            },
+            "Allies": {
+                "Camel": {"count": 8},
+                "Desert Wolf": {"count": 8}
+            },
+            "Weapons": {
+                "Avian Bow": {"count": 8},
+                "Khopesh": {"count": 8},
+                "Scimitar": {"count": 8}
+            },
+            "Spells": {
+                "Mummify": {"count": 8},
+                "Navigate the Labyrinth": {"count": 8},
+                "Open Sesame": {"count": 8},
+                "Summon Help": {"count": 8}
+            },
+            "Items": {
+                "Bag of Gems": {"count": 8},
+                "Spices": {"count": 8},
+                "Thunderstone Potion": {"count": 8}
+            },
+            "Treasure": {
+                "Huma": {"count": 1},
+                "Rien's Ring": {"count": 1},
+                "Thunderstone Lamp": {"count": 1},
+                "Thunderstone Rug": {"count": 1}
+            },
+            "Monsters": {
+                "1": {
+                    "Beetle Bevy": {
+                        "total_count": 10,
+                        "Scarab": {"count": 10}
+                    },
+                    "Desert Dwellers": {
+                        "total_count": 10,
+                        "Angry Ostrich": {"count": 2},
+                        "Desert Dogs": {"count": 2},
+                        "Giant Scorpion": {"count": 2},
+                        "Hydradile": {"count": 2},
+                        "Spiked Lizard": {"count": 2}
+                    }
+                },
+                "2": {
+                    "Naga Nomads": {
+                        "total_count": 10,
+                        "Chizukeki": {"count": 2},
+                        "Jukesh": {"count": 2},
+                        "Nemash": {"count": 2},
+                        "Senash": {"count": 2},
+                        "Tjakala": {"count": 2}
+                    },
+                    "Sand Spirits": {
+                        "total_count": 10,
+                        "Cobra Djinn": {"count": 2},
+                        "Dog Djinn": {"count": 2},
+                        "Major Djinn": {"count": 2},
+                        "Minor Djinn": {"count": 2},
+                        "Qareen": {"count": 2}
+                    }
+                },
+                "3": {
+                    "Arid Atrocities": {
+                        "total_count": 10,
+                        "Casuariidae": {"count": 2},
+                        "Falak": {"count": 2},
+                        "Manticore": {"count": 2},
+                        "Roc": {"count": 2},
+                        "Sapleo": {"count": 2}
+                    },
+                    "Amtephetes's Forces": {
+                        "total_count": 10,
+                        "Dust Devil": {"count": 3},
+                        "King Atemphetes": {"count": 1},
+                        "Nesnas": {"count": 2},
+                        "Queen Amtephetes": {"count": 1},
+                        "Undead Cyclops": {"count": 3}
+                    }
+                }
+            },
+            "Dungeon Rooms": {
+                "1": {
+                    "Dragon Blood Forest": {},
+                    "Merchant Caravan": {}
+                },
+                "2": {
+                    "Naga Nest": {},
+                    "Oasis": {}
+                },
+                "3": {
+                    "Chalk Desert": {},
+                    "Royal Tomb": {}
+                }
+            },
+            "Guardians": {
+                "Amtephetes VII, The Wicked": {
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {}
+                }
+            },
+            "Legendaries": {
+                "The Immortals": {"count": 8},
+                "Wish": {"count": 1}
+            },
+            "Wounds": {}
+        },
         "Clockwork Destiny": {}
     }
 }

@@ -23,3 +23,4 @@ __last_updated__ = "2020/10/24"
 ***
 
 * Added names and counts for cards up through quest 8
+* Added names and counts for cards in quest 9

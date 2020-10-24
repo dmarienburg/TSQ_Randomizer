@@ -1715,7 +1715,257 @@
         },
         "Ripples in Time": {
             "Heros": {
-                "": {
+                "Arid": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Arcanian": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Dunardic": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Regian": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Terakian": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Veris": {
                     "1": {
                         "count": 1,
                         "race": [],
@@ -1779,21 +2029,84 @@
                 "Summon Storm": {"count": 8}
             },
             "Items": {
-                "Amulet of Power": {"count": 8}
+                "Amulet of Power": {"count": 8},
+                "Lightstone Gem": {"count": 8},
+                "Nature's Amulet": {"count": 8},
+                "Ring of Spell Storing": {"count": 8}
             },
-            "Treasure": {},
+            "Treasure": {
+                "Axe of the Giants": {"count": 1},
+                "Lightbringer": {"count": 1}
+            },
             "Monsters": {
-                "1": {},
-                "2": {},
-                "3": {}
+                "1": {
+                    "Doomknights": {
+                        "total_count": 10,
+                        "Doom General": {"count": 2},
+                        "Doom Necromancer": {"count": 2},
+                        "Doom Sorcerer": {"count": 2},
+                        "Doom Tormentor": {"count": 2},
+                        "Doom Warrior": {"count": 2}
+                    },
+                    "Gnoll Raiders": {
+                        "total_count": 10,
+                        "Cur Cur": {"count": 2},
+                        "Gnoll Alpha": {"count": 2},
+                        "Gnoll Hunter": {"count": 2},
+                        "Gnoll Marauder": {"count": 2},
+                        "Gnoll Scavenger": {"count": 2}
+                    }
+                },
+                "2": {
+                    "Minions of Chaos": {
+                        "total_count": 10,
+                        "Hell Hound": {"count": 2},
+                        "Lightning Demon": {"count": 2},
+                        "Pain Demon": {"count": 2},
+                        "Succubus": {"count": 2},
+                        "Unholy Demon": {"count": 2}
+                    },
+                    "Torments": {
+                        "total_count": 10,
+                        "Fire Torment": {"count": 2},
+                        "Lightning Torment": {"count": 2},
+                        "Smoke Torment": {"count": 2},
+                        "Thunder Torment": {"count": 2},
+                        "Water Torment": {"count": 2}
+                    }
+                },
+                "3": {
+                    "Ancient Wyrms": {
+                        "total_count": 10,
+                        "Ebon Fume": {"count": 2},
+                        "Mythlurian": {"count": 2},
+                        "Skaladak": {"count": 2},
+                        "Smokeplume": {"count": 2},
+                        "Uyril Unending": {"count": 2}
+                    },
+                    "Ancient Protectors": {
+                        "total_count": 10,
+                        "Bronze Golem": {"count": 2},
+                        "Clay Golem": {"count": 2},
+                        "Colossus": {"count": 2},
+                        "Iron Golumn": {"count": 2},
+                        "Stone Golumn": {"count": 2}
+                    }
+                }
             },
             "Dungeon Rooms": {
-                "1": {},
-                "2": {},
-                "3": {}
+                "1": {
+                    "Gate Cavern": {}
+                },
+                "2": {
+                    "Dangerous Passageway": {}
+                },
+                "3": {
+                    "Fire Chasm": {}
+                }
             },
             "Guardians": {
-                "": {
+                "Death Sentinel": {
                     "4": {},
                     "5": {},
                     "6": {}
@@ -1802,7 +2115,411 @@
             "Legendaries": {},
             "Wounds": {}
         },
-        "What Lies Beneath": {},
+        "What Lies Beneath": {
+            "Heros": {
+                "Graeme Crawford": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                },
+                "Khomros": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                },
+                "Ophialyn the Tracker": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                },
+                "Runiva Highstone": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                },
+                "Uvina the Devler": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                },
+                "Wiltran Proudmore": {
+                    "1": {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "2":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "3":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    },
+                    "4":  {
+                        "count": 1,
+                        "race": [],
+                        "class": [],
+                        "light_value": 0,
+                        "gold_produciton_value": 0,
+                        "attack_value": 1,
+                        "attack_type": "physical",
+                        "skill_value": 4,
+                        "cost": 0, 
+                        "text": ""
+                    }
+                }
+            },
+            "Weapons": {
+                "Bastard Sword": {"count": 8},
+                "Battlepick": {"count": 8},
+                "Cleaner's Net": {"count": 8},
+                "The Five Points": {"count": 8}
+            },
+            "Spells": {
+                "Acid Burst": {"count": 8},
+                "Ascendance": {"count": 8},
+                "Cure Disease": {"count": 8},
+                "Haste": {"count": 8}
+            },
+            "Items": {
+                "Bracers of Cleansing": {"count": 8},
+                "Neverending Rope Spool": {"count": 8},
+                "Studded LEather Shirt": {"count": 8},
+                "Wand of Illumination": {"count": 8}
+            },
+            "Treasure": {
+                "Hendrik the Brainless": {"count": 1},
+                "Treasure Cache": {"count": 2},
+                "Ward of Healing": {"count": 1}
+            },
+            "Monsters": {
+                "1": {
+                    "Drain Dwellers": {
+                        "total_count": 10,
+                        "Alligator": {"count": 2},
+                        "Black Swine": {"count": 2},
+                        "Mutated Frog": {"count": 2},
+                        "Raccoon Ravager": {"count": 2},
+                        "Sewer Snake": {"count": 2}
+                    },
+                    "Plague Rats": {
+                        "total_count": 10,
+                        "Plague Rat": {"count": 10}
+                    }
+                },
+                "2": {
+                    "Ghoulish Scavengers": {
+                        "total_count": 10,
+                        "Elthrakk": {"count": 2},
+                        "Ghoul Champion": {"count": 2},
+                        "Ghoul Glutton": {"count": 2},
+                        "Ghoul Scrounger": {"count": 2},
+                        "Queen Nerrigogg": {"count": 2}
+                    },
+                    "Sewer Trogs": {
+                        "total_count": 10,
+                        "Chief Gis'rozal": {"count": 2},
+                        "Trog Berserker": {"count": 2},
+                        "Trog Cleric": {"count": 2},
+                        "Trog Scout": {"count": 2},
+                        "Trog Weaponmaster": {"count": 2}
+                    }
+                },
+                "3": {
+                    "Shapeless Spawns": {
+                        "total_count": 10,
+                        "Aberrant Lurker": {"count": 2},
+                        "Glom": {"count": 2},
+                        "Mindless Trog": {"count": 2},
+                        "Spawning Pod": {"count": 2},
+                        "Tentacula": {"count": 2}
+                    },
+                    "Wast Wyrms": {
+                        "total_count": 10,
+                        "Giant Centipede": {"count": 2},
+                        "Muck Leeches": {"count": 2},
+                        "Purple Worm": {"count": 2},
+                        "Shocking Eel": {"count": 2},
+                        "Spectral Worm": {"count": 2}
+                    }
+                }
+            },
+            "Dungeon Rooms": {
+                "1": {
+                    "Junction": {},
+                    "Rat Nest": {}
+                },
+                "2": {
+                    "Ghoul Nest": {},
+                    "Trog Village": {}
+                },
+                "3": {
+                    "Arches": {},
+                    "Catacombs": {}
+                }
+            },
+            "Guardians": {
+                "Hive Mind": {
+                    "4": {},
+                    "5": {},
+                    "6": {}
+                }
+            },
+            "Legendaries": {
+                "Meteor Shower": {"count": 1},
+                "Sladreck the Weretrog": {"count": 1}
+            },
+            "Wounds": {}
+        },
         "Frozen In Time": {},
         "Vengeful Sands": {},
         "Clockwork Destiny": {}

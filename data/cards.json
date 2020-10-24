@@ -2520,7 +2520,412 @@
             },
             "Wounds": {}
         },
-        "Frozen In Time": {},
+        "Frozen In Time": {
+            "Empty": {
+                "Heros": {
+                    "Breezy": {
+                        "1": {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "2":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "3":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "4":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        }
+                    },
+                    "Drulfal the Primordial": {
+                        "1": {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "2":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "3":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "4":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        }
+                    },
+                    "Lefira": {
+                        "1": {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "2":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "3":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "4":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        }
+                    },
+                    "Lilande": {
+                        "1": {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "2":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "3":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "4":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        }
+                    },
+                    "Rugduhr Blackmane": {
+                        "1": {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "2":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "3":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "4":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        }
+                    },
+                    "Samly Thrackson": {
+                        "1": {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "2":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "3":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        },
+                        "4":  {
+                            "count": 1,
+                            "race": [],
+                            "class": [],
+                            "light_value": 0,
+                            "gold_produciton_value": 0,
+                            "attack_value": 1,
+                            "attack_type": "physical",
+                            "skill_value": 4,
+                            "cost": 0, 
+                            "text": ""
+                        }
+                    }
+                },
+                "Weapons": {
+                    "Fire Rod": {"count": 8},
+                    "Flaming Hammer": {"count": 8},
+                    "Frost Bow": {"count": 8},
+                    "Mechanical Harpoon": {"count": 8}
+                },
+                "Spells": {
+                    "Blizzard": {"count": 8},
+                    "Cone of Cold": {"count": 8},
+                    "Create Fire": {"count": 8},
+                    "Inner Fire": {"count": 8}
+                },
+                "Items": {
+                    "Eternal Flame": {"count": 8},
+                    "Ice Climbing Gear": {"count": 8},
+                    "Snow Trekking Tools": {"count": 8},
+                    "Tent": {"count": 8}
+                },
+                "Treasure": {
+                    "Gemini Daggers": {"count": 2},
+                    "True Vision": {"count": 1}
+                },
+                "Monsters": {
+                    "1": {
+                        "Arctic Animals": {
+                            "total_count": 10,
+                            "Ice Fox": {"count": 2},
+                            "Polar Bear": {"count": 2},
+                            "Possessed Penguin": {"count": 2},
+                            "Snow Leopard": {"count": 2},
+                            "Walrus": {"count": 2}
+                        },
+                        "Abyssal Servants": {
+                            "total_count": 10,
+                            "Ice Mephit": {"count": 2},
+                            "Impish Servant": {"count": 2},
+                            "Lowly Dredtch": {"count": 2},
+                            "Shax": {"count": 2},
+                            "Vrokolith": {"count": 2}
+                        }
+                    },
+                    "2": {
+                        "Bloodfrost Clan": {
+                            "total_count": 10,
+                            "Beastmaster": {"count": 2},
+                            "Goblin Assassin Squad": {"count": 2},
+                            "Goblin Scouting Party": {"count": 2},
+                            "Orc Harpooner": {"count": 2},
+                            "Tundra Wolf Rider": {"count": 2}
+                        },
+                        "Tundra Wolf Pack": {
+                            "total_count": 10,
+                            "Tundra Wolf": {"count": 10}
+                        }
+                    },
+                    "3": {
+                        "Frozen Natives": {
+                            "total_count": 10,
+                            "Adlet Alpha": {"count": 2},
+                            "Adlet Guardsman": {"count": 2},
+                            "Adlet Hunter": {"count": 2},
+                            "Adlet Mother": {"count": 2},
+                            "Adlet Prowler": {"count": 2}
+                        },
+                        "Ice Behemoths": {
+                            "total_count": 10,
+                            "Frost Giant": {"count": 2},
+                            "Gargantuan Ice Spider": {"count": 2},
+                            "Ice Troll": {"count": 2},
+                            "Winter Golem": {"count": 2},
+                            "Yeti": {"count": 2}
+                        }
+                    }
+                },
+                "Dungeon Rooms": {
+                    "1": {
+                        "Icy Glade": {},
+                        "Volcanic Hot Springs": {}
+                    },
+                    "2": {
+                        "Orc Tribute Site": {},
+                        "Tundra Chasms": {}
+                    },
+                    "3": {
+                        "Adlet Hunting Ground": {},
+                        "Glacial Tomb": {}
+                    }
+                },
+                "Guardians": {
+                    "Orgrum Coldthunder": {
+                        "4": {},
+                        "5": {},
+                        "6": {}
+                    }
+                },
+                "Legendaries": {
+                    "Baalok's Heart": {"count": 1},
+                    "Tunderstone Map": {"count": 1},
+                    "Tunderstone Sands": {"count": 1}
+                },
+                "Wounds": {}
+        },
         "Vengeful Sands": {},
         "Clockwork Destiny": {}
     }

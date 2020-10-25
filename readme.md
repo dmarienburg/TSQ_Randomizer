@@ -22,11 +22,16 @@ __last_updated__ = "2020/10/25"
 
 ***
 
-### Version 0.03b
+### Version 0.03b - 2020/10/25
 
 * Added a method for loading the cards.json into a dict
 
-### Version 0.02b
+### Version 0.02b - 2020/10/24
 
 * Added names and counts for cards in quest 9
 * Added names and counts for cards up through quest 8
+
+### Version 0.01b - 2020/10/12
+
+* Created initial outline of json
+* Added card names for quests 1-7 to the json 

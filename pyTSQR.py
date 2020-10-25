@@ -1,6 +1,8 @@
 import json as js
 import random as rand
 
+from os import path
+
 class GameRandomizer:
     def __init__(self, **kwargs):
         self.owned_sets = {
@@ -14,8 +16,17 @@ class GameRandomizer:
             "Vengeful Sands": False,
             "Clockwork Destiny": False
         }
-
-        self.deck_pool = {}
+        self.cards = self.load_cards()
+        self.deck_pool = {
+            "Heros":{},
+            "Weapons": {},
+            "Spells": {},
+            "Items": {},
+            "Treasures": {},
+            "Legendaries": {},
+            "Monsters": {},
+            "Dungeon Rooms": {}
+        }
         self.randomized_decks = {}
     
     def create_deck_pool(self):
@@ -29,7 +40,29 @@ class GameRandomizer:
 
         The results will be placed in the deck_pool class variable.
         """
-        pass
+        # Create a list including only quests that the user selected
+        included_quests = [
+            key for key in self.owned_sets.keys() if self.owned_sets[key] is True
+        ]
+
+    def load_cards(self):
+        """
+        Open the cards.json and load the results into the self.cards class
+        variable as a dictionary.
+
+        :return: dict - a nested dictionary containing all the values in the
+        cards.json file.
+        """
+        data_path = path.join(
+            path.dirname(path.abspath(__file__)), 
+            "data", 
+            "cards.json"
+        )
+        with open(data_path) as data_file:
+            data_dict = js.dump(data_file)
+            data_file.close()
+        
+        retrun data_dict
 
     def select_from_pool(self):
         """

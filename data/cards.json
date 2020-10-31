@@ -404,7 +404,7 @@
                     "count": 8
                 }
             },
-            "Item": {
+            "Items": {
                 "Amulet of Infravision": {
                     "count": 8
                 },
@@ -2215,7 +2215,7 @@
                         "skill_value": 4,
                         "cost": 0, 
                         "text": ""
-                    },
+                    }
                 },
                 "Ophialyn the Tracker": {
                     "1": {
@@ -2265,7 +2265,7 @@
                         "skill_value": 4,
                         "cost": 0, 
                         "text": ""
-                    },
+                    }
                 },
                 "Runiva Highstone": {
                     "1": {
@@ -2315,7 +2315,7 @@
                         "skill_value": 4,
                         "cost": 0, 
                         "text": ""
-                    },
+                    }
                 },
                 "Uvina the Devler": {
                     "1": {
@@ -2365,7 +2365,7 @@
                         "skill_value": 4,
                         "cost": 0, 
                         "text": ""
-                    },
+                    }
                 },
                 "Wiltran Proudmore": {
                     "1": {

@@ -7,8 +7,8 @@ correct card lists shown.  Eventually this will grow to be a component of a
 digital version of TSQ
 
 __author__ = "David Marienburg"  
-__version__ = "0.04b"  
-__last_updated__ = "2020/10/31"
+__version__ = "0.0.5a"  
+__last_updated__ = "2020/12/06"
 
 ***
 
@@ -38,7 +38,12 @@ print(a.randomized_decks)
 
 ***
 
-### Version 0.04b - 2020/10/31
+### Version 0.0.5a - 2020/12/06
+* Added starter decks for standard, barricades solo, and barricades co-op
+  * Added full text to all starter cards
+* Added full text to all the weapon cards
+
+### Version 0.0.4a - 2020/10/31
 
 * Lots of minor bug fixes
 * When GameRandomizer is invoked it now:
@@ -48,18 +53,18 @@ print(a.randomized_decks)
     * decks should never repeat but more testing will be needed to make sure that this is functioning 100% correctly
   * calling the GameRandomizer objects randomized_decks class variable will provide the random deck selections in a nested dictionary format.
 
-### Version 0.03b - 2020/10/25
+### Version 0.0.3a - 2020/10/25
 
 * Added a method for loading the cards.json into a dict
 * Added a method for creating a deck pool
   * Monsters and Dungeon Rooms will be added to the correct level
 
-### Version 0.02b - 2020/10/24
+### Version 0.0.2a - 2020/10/24
 
 * Added names and counts for cards in quest 9
 * Added names and counts for cards up through quest 8
 
-### Version 0.01b - 2020/10/12
+### Version 0.0.1a - 2020/10/12
 
 * Created initial outline of json
 * Added card names for quests 1-7 to the json 

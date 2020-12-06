@@ -1,64 +1,271 @@
 {
     "Base": {
-        "Starter Cards": {}
+        "Starter Cards": {
+            "Thunderstone Shard": {
+                "keywords": ["starter", "magic", "item"],
+                "Gold Production": 2,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 0,
+                "Magical Attack Boost Value": 0,
+                "Skill": 2,
+                "Light": 0,
+                "Text": {
+                    "Dungeon": "If you have 1 or more Wounds, draw 1 card.", 
+                    "Village": "If you have 1 or more Wounds, draw 1 card."
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 2
+            },
+            "Lantern": {
+                "keywords": ["starter", "item"],
+                "Gold Production": 2,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 0,
+                "Magical Attack Boost Value": 0,
+                "Skill": 0,
+                "Light": 1,
+                "Text": {
+                    "Village": "After you complete your Village Phase, you may take a Dungeon Phase.  If you do, you may not move out of The Wilderness."
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 2
+            },
+            "Dagger": {
+                "keywords": ["starter", "edged", "weapon"],
+                "Gold Production": 1,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 1,
+                "Magical Attack Boost Value": 0,
+                "Skill": -2,
+                "Light": 0,
+                "Text": {
+                    "All": "After buying a card, you may destroy 1 (and only 1) Dagger.",
+                    "Dungeon": "If wielded by a level 0 Hero, draw 1 card"
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 2
+            },
+            "Adventurer": {
+                "keywords": ["starter", "human", "hero"],
+                "Gold Production": 0,
+                "Physical Attack": 1,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 0,
+                "Magical Attack Boost Value": 0,
+                "Skill": 2,
+                "Light": 0,
+                "Text": {
+                    "All": "(Adventurers have no Class, and thus may level into an level 1 Hero.)"
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 6
+            }
+        },
+        "Barricades Solo Stater Cards": {
+            "Bree Setin": {
+                "keywords": ["hafling", "ally", "starter", "barricades"],
+                "Gold Production": 3,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 1,
+                "Magical Attack Boost Value": 0,
+                "Skill": 2,
+                "Light": 0,
+                "Text": {
+                    "All": "Once per turn, after a die is rolled, you may reroll the die (before it resolves).  If you do, discard Bree unless you have Joba."
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 1
+            },
+            "Joba": {
+                "keywords": ["beast", "ally", "starter", "barricades"],
+                "Gold Production": 2,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 0,
+                "Magical Attack Boost Value": 0,
+                "Skill": 2,
+                "Light": 0,
+                "Location": {
+                    "Spoils": "Level up 1 Hero, paying Thunderstone costs. If they are level 0, instead pay 0 Thunderstones"
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 1
+            },
+            "Thunderstone Staff": {
+                "keywords": ["magic", "item", "starter", "barricades"],
+                "Gold Production": 2,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 0,
+                "Magical Attack Boost Value": 0,
+                "Skill": 0,
+                "Light": 1,
+                "Text": {
+                    "All": "+2 light if the Guardian is revealed",
+                    "Dungeon": "If you have a Wound, draw 1 card. If you have 4 or fewer HP, you may heal 1 Wound instead."
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 2
+            }
+        },
+        "Barricades Co-Op Stater Cards": {
+            "Bree Setin": {
+                "keywords": ["hafling", "ally", "starter", "barricades"],
+                "Gold Production": 3,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 1,
+                "Magical Attack Boost Value": 0,
+                "Skill": 2,
+                "Light": 0,
+                "Text": {
+                    "All": "Once per turn, after a die is rolled, you may reroll the die (before it resolves).  If you do, discard Bree unless you have Joba."
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 1
+            },
+            "Joba": {
+                "keywords": ["beast", "ally", "starter", "barricades"],
+                "Gold Production": 2,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 0,
+                "Magical Attack Boost Value": 0,
+                "Skill": 2,
+                "Light": 0,
+                "Location": {
+                    "Spoils": "Level up 1 Hero, paying Thunderstone costs. If they are level 0, instead pay 0 Thunderstones"
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 1
+            },
+            "Thunderstone Pieces": {
+                "keywords": ["magic", "item", "starter", "barricades"],
+                "Gold Production": 2,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 0,
+                "Magical Attack Boost Value": 0,
+                "Skill": 0,
+                "Light": 1,
+                "Text": {
+                    "All": "+1 light if the Guardian is revealed.",
+                    "Spoils": "If you are in a Party, gain 1 Thunderstone or heal 1 would (token)."
+                },
+                "VP Value": 0,
+                "Gold Cost": 0,
+                "Level": 0,
+                "count": 2
+            }
+        } 
     },
     "Quest": {
         "Empty": {
             "Heros": {
                 "": {
                     "1": {
-                        "count": 1,
-                        "race": [],
-                        "class": [],
-                        "light_value": 0,
-                        "gold_produciton_value": 0,
-                        "attack_value": 1,
-                        "attack_type": "physical",
-                        "skill_value": 4,
-                        "cost": 0, 
-                        "text": ""
+                        "keywords": [],
+                        "Gold Production": 0,
+                        "Physical Attack": 0,
+                        "Magical Attack": 0,
+                        "Physical Attack Boost Value": 0,
+                        "Magical Attack Boost Value": 0,
+                        "Skill": 0,
+                        "Light": 0,
+                        "Text": {},
+                        "VP Value": 0,
+                        "Gold Cost": 0,
+                        "Level": 1,
+                        "count": 8
                     },
                     "2":  {
-                        "count": 1,
-                        "race": [],
-                        "class": [],
-                        "light_value": 0,
-                        "gold_produciton_value": 0,
-                        "attack_value": 1,
-                        "attack_type": "physical",
-                        "skill_value": 4,
-                        "cost": 0, 
-                        "text": ""
+                        "keywords": [],
+                        "Gold Production": 0,
+                        "Physical Attack": 0,
+                        "Magical Attack": 0,
+                        "Physical Attack Boost Value": 0,
+                        "Magical Attack Boost Value": 0,
+                        "Skill": 0,
+                        "Light": 0,
+                        "Text": {},
+                        "VP Value": 0,
+                        "Gold Cost": 0,
+                        "Level": 2,
+                        "count": 4
                     },
                     "3":  {
-                        "count": 1,
-                        "race": [],
-                        "class": [],
-                        "light_value": 0,
-                        "gold_produciton_value": 0,
-                        "attack_value": 1,
-                        "attack_type": "physical",
-                        "skill_value": 4,
-                        "cost": 0, 
-                        "text": ""
+                        "keywords": [],
+                        "Gold Production": 0,
+                        "Physical Attack": 0,
+                        "Magical Attack": 0,
+                        "Physical Attack Boost Value": 0,
+                        "Magical Attack Boost Value": 0,
+                        "Skill": 0,
+                        "Light": 0,
+                        "Text": {},
+                        "VP Value": 0,
+                        "Gold Cost": 0,
+                        "Level": 3,
+                        "count": 2
                     },
                     "4":  {
-                        "count": 1,
-                        "race": [],
-                        "class": [],
-                        "light_value": 0,
-                        "gold_produciton_value": 0,
-                        "attack_value": 1,
-                        "attack_type": "physical",
-                        "skill_value": 4,
-                        "cost": 0, 
-                        "text": ""
+                        "keywords": [],
+                        "Gold Production": 0,
+                        "Physical Attack": 0,
+                        "Magical Attack": 0,
+                        "Physical Attack Boost Value": 0,
+                        "Magical Attack Boost Value": 0,
+                        "Skill": 0,
+                        "Light": 0,
+                        "Text": {},
+                        "VP Value": 0,
+                        "Gold Cost": 0,
+                        "Level": 4,
+                        "count": 1
                     }
                 }
             },
             "Weapons": {},
             "Spells": {},
-            "Items": {},
+            "Items": {
+                "name": {
+                    "keywords": [],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": 0,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 0,
+                    "Gold Cost": 0,
+                    "Level": 0,
+                    "count": 0
+                }
+            },
             "Treasure": {},
             "Monsters": {
                 "1": {},

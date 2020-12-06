@@ -247,8 +247,40 @@
                     }
                 }
             },
-            "Weapons": {},
-            "Spells": {},
+            "Weapons": {
+                "name": {
+                    "keywords": [],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": 0,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 0,
+                    "Gold Cost": 0,
+                    "Level": 0,
+                    "count": 0
+                }
+            },
+            "Spells": {
+                "name": {
+                    "keywords": [],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": 0,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 0,
+                    "Gold Cost": 0,
+                    "Level": 0,
+                    "count": 0
+                }
+            },
             "Items": {
                 "name": {
                     "keywords": [],
@@ -266,7 +298,23 @@
                     "count": 0
                 }
             },
-            "Treasure": {},
+            "Treasure": {
+                "name": {
+                    "keywords": [],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": 0,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 0,
+                    "Gold Cost": 0,
+                    "Level": 0,
+                    "count": 0
+                }
+            },
             "Monsters": {
                 "1": {},
                 "2": {},
@@ -284,8 +332,40 @@
                     "6": {}
                 }
             },
-            "Legendaries": {},
-            "Wounds": {}
+            "Legendaries": {
+                "name": {
+                    "keywords": [],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": 0,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 0,
+                    "Gold Cost": 0,
+                    "Level": 0,
+                    "count": 0
+                }
+            },
+            "Wounds": {
+                "name": {
+                    "keywords": [],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": 0,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 0,
+                    "Gold Cost": 0,
+                    "Level": 0,
+                    "count": 0
+                }
+            }
         },
         "A Mirror in the Dark": {
             "Heros": {
@@ -591,11 +671,90 @@
                 }
             },
             "Weapons": {
-                "Hammer": {"count": 8},
-                "Maul": {"count": 8},
-                "Shortbow": {"count": 8},
-                "Shortspear": {"count": 8},
-                "Shortsword": {"count": 8}
+                "Hammer": {
+                    "keywords": ["blunt", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 1,
+                    "Gold Cost": 3,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Maul": {
+                    "keywords": [:"blunt", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 4,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -8,
+                    "Light": 0,
+                    "Text": {
+                        "Dwarves": "+ 2 skill"
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 8,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Shortbow": {
+                    "keywords": ["bow", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {
+                        "Elves": "+1 Physical Attack Boost Value",
+                        "Rogues": "+1 skill"
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 5,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Shortspear": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -3,
+                    "Light": 0,
+                    "Text": {
+                        "Dungeon": "+2 Physical Attack Boost Value. After the battle, destroy this card"
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Shortsword": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -3,
+                    "Light": 0,
+                    "Text": {
+                        "Dungeon": "If the wielding Hero is also wielding another Weapon, draw 1 card."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 3,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Fireball": {
@@ -1009,10 +1168,75 @@
                 }
             },
             "Weapons": {
-                "Longbow": {"count": 8},
-                "Longsword": {"count": 8},
-                "Punching Dagger": {"count": 8},
-                "Quaterstaff": {"count": 8}
+                "Longbow": {
+                    "keywords": ["bow", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -5,
+                    "Light": 0,
+                    "Text": {
+                        "All": "Exchange the Monsters in 2 adjacent Dungeon Rooms (diagonal is not adjacent)."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 5,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Longsword": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {
+                        "Humans": "+1 skill"
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Punching Dagger": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 3,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -3,
+                    "Light": 0,
+                    "Text": {
+                        "Halflings": "+1 skill",
+                        "All": "+2 Physical Attack Boost Value for Heros wielding another Weapon with Dagger in its Title."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Quarterstaff": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -1,
+                    "Light": 0,
+                    "Text": {
+                        "All": "This Hero cannot wield other Weapons. +1 Physical Attack Boost Value for Heros with 6 or more skill."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 2,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Arcane Touch": {"count": 8},
@@ -1414,10 +1638,75 @@
                 }
             },
             "Weapons": {
-                "Battle Axe": {"count": 8},
-                "Boomerang": {"count": 8},
-                "Crystal Dagger": {"count": 8},
-                "Holy Mace": {"count": 8}
+                "Battle Axe": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -6,
+                    "Light": 0,
+                    "Text": {
+                        "All": "Each time you gain 1 or more Wounds from a Monster gain 1 Thunderstone."
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Boomerang": {
+                    "keywords": ["blunt", "edged", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {
+                        "All": "When thi card is discarded, you may give it to a Hero to wield (meeting the skill requirement)."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 3,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Crystal Dagger": {
+                    "keywords": ["edged", "magic", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -2,
+                    "Light": 1,
+                    "Text": {
+                        "All": "The wielding Hero has +1 level.",
+                        "Dungeon": "If wielded by a Wizard, use a Spell's 'Dungeon' ability again."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 5,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Holy Mace": {
+                    "keywords": ["blunt", "divine", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {
+                        "All": "+1 Physical Attack Boost Value against Demon and Undead Monsters."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 5,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Arcane Aura": {"count": 8},
@@ -1819,10 +2108,72 @@
                 }
             },
             "Weapons": {
-                "Broadsword": {"count": 8},
-                "Crossbow": {"count": 8},
-                "Flail": {"count": 8},
-                "Two-Handed Sword": {"count": 8}
+                "Broadsword": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 3,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -5,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 1,
+                    "Gold Cost": 7,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Crossbow": {
+                    "keywords": ["bow", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -3,
+                    "Light": 0,
+                    "Text": {
+                        "Dungeon": "Gain +3 Physical Attack Boost Value. Unless a Rogue with 6 or more skill wields this Bow, you have -1 HP."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 6,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Flail": {
+                    "keywords": ["blunt", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -5,
+                    "Light": 0,
+                    "Text": {
+                        "All": "+ Physical Attack Value equal to the wielding Hero's level."
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Two-Handed Sword": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 3,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -7,
+                    "Light": 0,
+                    "Text": {
+                        "All": "+2 Physical Attack Boost Value against Monsters with 'Before Battle' abilities."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 7,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Death Pact": {"count": 8},
@@ -2224,10 +2575,74 @@
                 }
             },
             "Weapons": {
-                "Cursed Mace": {"count": 8},
-                "King's Sword": {"count": 8},
-                "Longspear": {"count": 8},
-                "Magi Staff": {"count": 8}
+                "Cursed Mace": {
+                    "keywords": ["blunt", "cursed", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 3,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {
+                        "Before Battle": "Gain 1 wound unless this is wielded by a Cleric."
+                    },
+                    "VP Value": -1,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                },
+                "King's Sword": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 3,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 3,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -7,
+                    "Light": 0,
+                    "Text": {
+                        "All": "+2 skill for Heros with two or more class keywords (Cleric, Fighter, Rogue, Wizard)."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 6,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Longspear": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {
+                        "All": "+2 Physical Attack Boost Value for Heros of level 2 or higher."
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 3,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Magi Staff": {
+                    "keywords": ["blunt", "magic", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -3,
+                    "Light": 0,
+                    "Text": {
+                        "Dungeon": "Destroy this card to draw 1 card and place 1 Monster at the bottom of its Monster deck (then refilling)."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Creeping Death": {"count": 8},
@@ -2626,10 +3041,81 @@
                 }
             },
             "Weapons": {
-                "Bastard Sword": {"count": 8},
-                "Battlepick": {"count": 8},
-                "Cleaner's Net": {"count": 8},
-                "The Five Points": {"count": 8}
+                "Bastard Sword": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 3,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -7,
+                    "Light": 0,
+                    "Text": {
+                        "Humans": "+2 skill",
+                        "Spoils": "If this is wielded by a Fighter, level up the Fighter, paying Thunderstone costs."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 7,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Battlepick": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -4,
+                    "Light": 0,
+                    "Text": {
+                        "All": "After this card is discarded from your deck, you may give it to a Hero with +5 skill to wield.",
+                        "Dungeon": "Discard 2 cards from your deck."
+                    },
+                    "VP Value": 2,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Cleaner's Net": {
+                    "keywords": ["blunt", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 1,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -1,
+                    "Light": 0,
+                    "Text": {
+                        "All": "You may ignore ! effects from Plants, Swarms, and Vermin.  They have -1 HP and -1 to their Wound value against you.",
+                        "Spoils": "You may destroy this weapon"
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 1,
+                    "Level": 0,
+                    "count": 8
+                },
+                "The Five Points": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 4,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -8,
+                    "Light": 0,
+                    "Text": {
+                        "Dwarves": "+2 skill",
+                        "Tritons": "+2 skill",
+                        "All": "After this card is discarded (from anywhere, but not from the turn ending), gain 1 Iron Ration",
+                        "Village": "If unwielded, discard this card.",
+                        "Dungeon": "If unwielded, discard this card."
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 6,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Acid Burst": {"count": 8},
@@ -3031,10 +3517,84 @@
                 }
             },
             "Weapons": {
-                "Fire Rod": {"count": 8},
-                "Flaming Hammer": {"count": 8},
-                "Frost Bow": {"count": 8},
-                "Mechanical Harpoon": {"count": 8}
+                "Fire Rod": {
+                    "keywords": ["magic", "elemental", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 2,
+                    "Skill": -9,
+                    "Light": 1,
+                    "Text": {
+                        "Clerics": "+5 skill",
+                        "Wizards": "+5 skill", 
+                        "Rougues": "+3 skill",
+                        "Humans": "+3 skill",
+                        "All": "Only use one skill bonus (largest)."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 7,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Flaming Hammer": {
+                    "keywords": ["blunt", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 3,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -8,
+                    "Light": 1,
+                    "Text": {
+                        "Dwarves": "+2 skill",
+                        "Orcs": "+2 skill"
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 6,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Frost Bow": {
+                    "keywords": ["magic", "bow", "elemental", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 3,
+                    "Skill": -6,
+                    "Light": 0,
+                    "Text": {
+                        "Celestials": "+2 skill and +1 Magical Attack Boost Value",
+                        "Demons": "+2 skill and +1 Magical Attack Boost Value",
+                        "Elementals": "+2 skill and +1 Magical Attack Boost Value",
+                        "Elves": "+2 skill and +1 Magical Attack Boost Value"
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 7,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Mechanical Harpoon": {
+                    "keywords": ["bow", "edged", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -5,
+                    "Light": 0,
+                    "Text": {
+                        "Halflings": "+2 skill",
+                        "Rogues": "+2 skill",
+                        "Spoils": "If this is wielded by a Hero with 6+ skill, gain 1 Iron Ration token."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Blizzard": {"count": 8},
@@ -3440,9 +4000,56 @@
                 "Desert Wolf": {"count": 8}
             },
             "Weapons": {
-                "Avian Bow": {"count": 8},
-                "Khopesh": {"count": 8},
-                "Scimitar": {"count": 8}
+                "Avian Bow": {
+                    "keywords": ["magic", "bow", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -5,
+                    "Light": 0,
+                    "Text": {
+                        "Avians": "+2 skill",
+                        "Dungeon": "Draw 1 card"
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 6,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Khopesh": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 4,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -7,
+                    "Light": 0,
+                    "Text": {},
+                    "VP Value": 2,
+                    "Gold Cost": 5,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Scimitar": {
+                    "keywords": ["edged", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 3,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -6,
+                    "Light": 0,
+                    "Text": {
+                        "Dungeon": "Give 1 Monster +1 Hitpoint and +1 Thunderstone"
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 6,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Mummify": {"count": 8},
@@ -3845,9 +4452,62 @@
                 }
             },
             "Weapons": {
-                "Keltarian Bow": {"count": 8},
-                "Thunderstone Hammer": {"count": 8},
-                "Thunderstone Rod": {"count": 8}
+                "Keltarian Bow": {
+                    "keywords": ["bow", "weapon"],
+                    "Gold Production": 0,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 2,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -5,
+                    "Light": 0,
+                    "Text": {
+                        "Elves": "+2 skill",
+                        "Humans": "+2 skill",
+                        "Urqueans": "+2 skill",
+                        "All": "If the Monster has Armor ignore 2 of the Armor reduction."
+                    },
+                    "VP Value": 0,
+                    "Gold Cost": 5,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Thunderstone Hammer": {
+                    "keywords": ["blunt", "magic", "weapon"],
+                    "Gold Production": 1,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 0,
+                    "Skill": -5,
+                    "Light": 1,
+                    "Text": {
+                        "Dwarves": "+1 Physical Attack Boost Value",
+                        "Urqueans": "+1 Physical Attack Boost Value",
+                        "All": "+ Physical Attack Boost Value equal to the wielding Hero's level."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 6,
+                    "Level": 0,
+                    "count": 8
+                },
+                "Thunderstone Rod": {
+                    "keywords": ["blunt", "magic", "weapon"],
+                    "Gold Production": 2,
+                    "Physical Attack": 0,
+                    "Magical Attack": 0,
+                    "Physical Attack Boost Value": 0,
+                    "Magical Attack Boost Value": 1,
+                    "Skill": -3,
+                    "Light": 0,
+                    "Text": {
+                        "Dungeon": "Discard cards from your deck equal to 1 of your Wizard's level + 1 or equal to the number of Guardian Keys found (you choose). Draw 1 Spell discarded."
+                    },
+                    "VP Value": 1,
+                    "Gold Cost": 4,
+                    "Level": 0,
+                    "count": 8
+                }
             },
             "Spells": {
                 "Animate Dead": {"count": 8},
@@ -3945,6 +4605,47 @@
                 "Thunderstone Protector": {"count": 20}
             },
             "Wounds": {}
+        }
+    },
+    "Promo": {
+        "Weapons": {
+            "Rapier": {
+                "keywords": ["edged", "weapon"],
+                "Gold Production": 3,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 2,
+                "Magical Attack Boost Value": 0,
+                "Skill": -6,
+                "Light": 0,
+                "Text": {
+                    "Humans": "+1 skill",
+                    "Rogues": "+1 skill",
+                    "All": "+2 against Humanoid Monsters"
+                },
+                "VP Value": 0,
+                "Gold Cost": 6,
+                "Level": 0,
+                "count": 0
+            },
+            "Hand Axe": {
+                "keywords": ["edged", "weapon"],
+                "Gold Production": 2,
+                "Physical Attack": 0,
+                "Magical Attack": 0,
+                "Physical Attack Boost Value": 1,
+                "Magical Attack Boost Value": 0,
+                "Skill": -3,
+                "Light": 0,
+                "Text": {
+                    "Dwarves": "+1 Physical Attack Boost Value",
+                    "All": "+1 against Giants and/or Plants"
+                },
+                "VP Value": 2,
+                "Gold Cost": 3,
+                "Level": 0,
+                "count": 8
+            }
         }
     }
 }
